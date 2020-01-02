@@ -1,0 +1,10 @@
+{
+  "name": "micro-fe-module-a",
+  "version": "0.1.0",
+  "description": "Module A within a micro-frontend example",
+  "main": "index.js",
+  "repository": "git@github.com:JamesNimlos/micro-fe-module-a.git",
+  "author": "JamesNimlos",
+  "license": "MIT",
+  "private": true
+}
