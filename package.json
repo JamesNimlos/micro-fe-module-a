@@ -6,5 +6,6 @@
   "repository": "git@github.com:JamesNimlos/micro-fe-module-a.git",
   "author": "JamesNimlos",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {}
 }
